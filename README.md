@@ -1,6 +1,5 @@
 # 2023_Medical-computer_Final-project
 
-# 🚗 2023_Medical-computer_Final-project  
 **License Plate Detection & Recognition using MATLAB GUI**
 
 This project implements a GUI-based license plate detection and character recognition system in MATLAB. It was completed as the final project for the Medical Computer course in 2023.
