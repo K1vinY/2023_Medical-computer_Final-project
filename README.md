@@ -69,13 +69,17 @@ To use the license plate recognition system:
 
 ## 📚 References
 
-- [Sobel Edge Detection in MATLAB (GFG)](https://www.geeksforgeeks.org/matlab-image-edgedetection-using-sobel-operator-from-scratch/)
-- [bwlabel – MATLAB Image Processing Toolbox](https://ww2.mathworks.cn/help/images/ref/bwlabel.html)
-- [imclose – MATLAB Morphological Operations](https://ww2.mathworks.cn/help/images/ref/imclose.html)
-- [License Plate Recognition with Template Matching (Angora Tutor)](https://angoratutor.com/license-plate-recognition-with-matlab)
-- [Sobel Operator – Wikipedia](https://zh.wikipedia.org/wiki/索貝爾算子)
-- [MATLAB 社群教學 (itread01)](https://www.itread01.com/content/1547963846.html)
-- [模板比對與邊緣處理 (coder.tw)](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/32213/)
+- Pre-Processing: 
+1.	https://www.itread01.com/content/1547963846.html
+2.	https://www.geeksforgeeks.org/matlab-image-edgedetection-using-sobel-operator-from-scratch/
+3.	https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/32213/
+4.	https://ww2.mathworks.cn/help/images/ref/bwlabel.html
+5.	https://ww2.mathworks.cn/help/images/ref/imclose.html
+6.	https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/446247/
+7.	https://iter01.com/90662.html 
+8.	https://zh.wikipedia.org/wiki/%E7%B4%A2%E8%B2%9D%E7%88%BE%E7%AE%97%E5%AD%90
+-	Plate license recognition: 
+1. https://angoratutor.com/license-plate-recognition-with-matlab 
 
 ---
 
